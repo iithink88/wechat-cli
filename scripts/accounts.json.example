@@ -1,0 +1,11 @@
+{
+  "_说明": "把本文件复制为 accounts.json，然后按你的实际情况改 db 和 key。db = 微信数据目录下的 db_storage 路径；key = 用 extract_keys.py 提取出的密钥文件名（放在 ~/.wechat-cli/ 下）。多余条目可删。",
+  "1": {
+    "db": "C:/Users/你的用户名/Documents/xwechat_files/你的wxid/db_storage",
+    "key": "all_keys_account1.json"
+  },
+  "2": {
+    "db": "C:/Users/你的用户名/Documents/xwechat_files/另一个wxid/db_storage",
+    "key": "all_keys_account2.json"
+  }
+}
